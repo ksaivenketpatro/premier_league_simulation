@@ -1,0 +1,55 @@
+
+Match ID
+"match_1"
+Home Goals
+3
+Away Goals
+0
+Home Result
+win
+Away Result
+lose
+
+Match ID
+"match_2"
+Home Goals
+2
+Away Goals
+2
+Home Result
+draw
+Away Result
+draw
+
+Match ID
+"match_3"
+Home Goals
+0
+Away Goals
+2
+Home Result
+lose
+Away Result
+win
+
+Match ID
+"match_4"
+Home Goals
+2
+Away Goals
+0
+Home Result
+win
+Away Result
+lose
+
+Match ID
+"match_5"
+Home Goals
+2
+Away Goals
+1
+Home Result
+win
+Away Result
+lose

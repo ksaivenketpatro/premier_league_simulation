@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GoalKeeper
+comment0.text=\r\n\ A\ Class\ to\ define\ the\ GoalKeeper\ of\ a\ Squad\r\n\r\n\ @author\ Saivenket\ Patro\r\n\ @version\ 1.7\r\n
+comment1.params=
+comment1.target=GoalKeeper()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GoalKeeper\r\n
+comment2.params=
+comment2.target=void\ add_cleanSheet()
+comment2.text=\r\n\ Method\ to\ add\ to\ the\ tally\ of\ Clean\ Sheets\ of\ a\ Goal\ Keeper\ Object\r\n
+comment3.params=
+comment3.target=int\ get_cleanSheet()
+comment3.text=\r\n\ Returns\ the\ number\ of\ Clean\ Sheets\ of\ a\ Goal\ Keeper\ of\ type\ int\r\n\ @return\ cleanSheets\ -\ Number\ of\ Clean\ Sheets\r\n
+numComments=4

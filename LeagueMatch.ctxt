@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LeagueMatch
+comment0.text=\r\n\ A\ Class\ to\ define\ a\ League\ Fixture\ of\ two\ clubs\r\n\ @author\ Saivenket\ Patro\r\n\ @version\ 3.2\r\n
+comment1.params=
+comment1.target=LeagueMatch()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ leagueMatch\r\n
+comment2.params=match_id\ time\ location\ homeTeam\ awayTeam
+comment2.target=void\ add_matchDetails(java.lang.String,\ java.lang.String,\ java.lang.String,\ Club,\ Club)
+comment2.text=\r\n\ Method\ to\ Add\ Details\ of\ a\ Match\ Fixture\r\n\ @param\ match_id\ ID\ of\ the\ match\ as\ a\ String\r\n\ @param\ time\ Time\ of\ the\ match\ held\ as\ a\ String\r\n\ @param\ location\ Location\ of\ the\ match\ as\ a\ String\r\n\ @param\ homeTeam\ Home\ Club\ of\ type\ Club\ Object\r\n\ @param\ awayTeam\ Away\ Club\ of\ type\ Club\ Object\r\n
+comment3.params=
+comment3.target=java.lang.String\ get_matchID()
+comment3.text=\r\n\ Returns\ the\ Unique\ matchID\ of\ a\ particular\ fixture\ of\ type\ String\r\n\ @return\ matchID\ -\ Match\ ID\ of\ a\ fixture\r\n
+comment4.params=
+comment4.target=java.lang.String\ get_matchDetails()
+comment4.text=\r\n\ Returns\ the\ Match\ Details\ of\ a\ Fixture\ of\ type\ String\r\n\ @return\ \ match_details\ -\ Details\ of\ a\ Match\ Fixture\r\n
+comment5.params=homeClub_goals\ awayClub_goals\ homeClub_result\ awayClub_result
+comment5.target=void\ record_MatchStats(int,\ int,\ java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Method\ to\ add\ record\ Match\ Stastics\ to\ a\ match\ fixture\r\n\ @param\ homeClub_goals\ Goals\ Scored\ by\ the\ Home\ Club\ as\ int\ \r\n\ @param\ awayClub_goals\ Goals\ Scored\ by\ the\ Away\ Club\ as\ int\r\n\ @param\ homeClub_result\ Result\ of\ Home\ Club\ as\ String\r\n\ @param\ awayClub_result\ Result\ of\ the\ Away\ Club\ as\ String\r\n
+comment6.params=
+comment6.target=java.lang.String\ get_finalScore()
+comment6.text=\r\n\ Returns\ the\ Final\ Score\ of\ a\ Match\ Fixture\ of\ type\ String\r\n\ @return\ \ finalScore_details\ -\ Final\ Score\ Details\ of\ a\ Match\r\n
+numComments=7

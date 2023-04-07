@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=League_Manager
+comment0.text=\r\nLeague\ Manager\ is\ the\ main\ driving\ Class\ for\ the\ whole\ project\r\n\r\n\ @author\ Saivenket\ Patro\ K\r\n\ @version\ 4.7\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

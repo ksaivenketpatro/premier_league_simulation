@@ -1,0 +1,185 @@
+
+Squad Size
+11
+Manchster
+"Cristiano Ronaldo" 
+1975
+181
+"Marcus Rashford"
+1990
+181
+"Jadon Sancho"
+1995
+181
+"Cristian Eriksen"
+1989
+181
+"Casemiro"
+1975
+181
+"Bruno Fernandes"
+1990
+156
+"Luke Shaw"
+1975
+160
+"Rafal Varane"
+1975
+181
+"Martinez"
+1996
+150
+"Diego Dalot" 
+1983
+172
+"David De Gea"
+1986
+156
+
+Squad Size
+11
+ArsenalFC
+"Gabriel Jesus" 
+1975
+181
+"Gabriel Martinelli"
+1975
+181
+"Bukayo Saka"
+1975
+181
+"Martin Odegaard"
+1975
+181
+"Smith Rowe"
+1975
+181
+"Thomas"
+1975
+181
+"William Saliba"
+1975
+181
+"Gabriel"
+1975
+181
+"Ben White"
+1975
+181
+"Kieran Tierney" 
+1975
+181
+"Aaron Ramsdale"
+1975
+181
+
+Squad Size
+11
+EvertonFC
+"Phil Foden" 
+1975
+181
+"Erling Haaland"
+1975
+181
+"Jack Grealish"
+1975
+181
+"Bernardo Silva"
+1975
+181
+"Rodri"
+1975
+181
+"Kevin De Bruyne"
+1975
+181
+"Ruben Dias"
+1975
+181
+"Aymeric Laporte"
+1975
+181
+"John Stones"
+1975
+181
+"Kyle Walker" 
+1975
+181
+"Ederson"
+1975
+181
+
+Squad Size
+11
+ChelseaFC
+"Mason Mount" 
+1975
+181
+"Kai Havertz"
+1975
+181
+"Raheem Sterling"
+1975
+181
+"Christian Pulisic"
+1975
+181
+"Ruben Loftus-Cheek"
+1975
+181
+"Jorginho"
+1975
+181
+"Ben Chilwell"
+1975
+181
+"Reece James"
+1975
+181
+"Thiago Silva"
+1975
+181
+"Trevoh Chalobah" 
+1975
+181
+"Edouard Mendy"
+1975
+181
+
+Squad Size
+11
+Liverpool
+"Diogo Jota" 
+1975
+181
+"Darwin Nunez"
+1975
+181
+"Mohamed Salah"
+1975
+181
+"Fabinho"
+1975
+181
+"Thiago"
+1975
+181
+"Jordan Henderson"
+1975
+181
+"Virgil van Dijk"
+1975
+181
+"Andrew Robertson"
+1975
+181
+"James Milner"
+1975
+181
+"Trent Alexander-Arnold" 
+1975
+181
+"Alisson Becker"
+1975
+181

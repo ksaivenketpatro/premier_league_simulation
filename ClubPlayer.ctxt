@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ClubPlayer
+comment0.text=\r\n\ A\ Class\ to\ define\ characterstics\ and\ stats\ of\ a\ Player\r\n\r\n\ @author\ Saivenket\ Patro\ K\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ClubPlayer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ clubPlayer\r\n
+comment2.params=playerName\ playerDOB\ playerHeight
+comment2.target=void\ set_playerData(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ Method\ to\ set\ player\ characterstics\r\n\ @param\ playerName\ Name\ of\ the\ Player\r\n\ @param\ playerDOB\ Year\ of\ the\ Birth\ of\ the\ Player\r\n\ @param\ playerHeight\ Height\ of\ the\ Player\r\n
+comment3.params=
+comment3.target=java.lang.String\ get_playerName()
+comment3.text=\r\n\ Return\ the\ player\ name\ of\ the\ object\ of\ type\ String\r\n\ @return\ athleteName\ -\ Name\ of\ the\ Player\ \r\n
+comment4.params=
+comment4.target=int\ get_playerAge()
+comment4.text=\r\n\ Return\ the\ player\ age\ of\ the\ object\ of\ type\ int\r\n\ @return\ age_dob\ -\ Age\ of\ the\ Player\r\n
+comment5.params=
+comment5.target=int\ get_playerHeight()
+comment5.text=\r\n\ Returns\ the\ player\ Height\ of\ the\ object\ of\ type\ int\r\n\ @return\ atheleteHeight\ -\ Height\ of\ the\ player\ \r\n
+comment6.params=goal
+comment6.target=void\ add_goalScored(int)
+comment6.text=\r\n\ Method\ to\ add\ goals\ to\ the\ tally\ of\ a\ ClubPlayer\ Object\r\n\ @param\ goal\ Number\ of\ Goals\ of\ type\ int\r\n
+comment7.params=
+comment7.target=int\ get_goalScored()
+comment7.text=\r\n\ Return\ the\ number\ of\ goals\ a\ player\ scored\ which\ is\ of\ type\ int\r\n\ @return\ goalScored\ -\ Number\ of\ Goals\ scored\r\n
+numComments=8
